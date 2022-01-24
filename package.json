@@ -1,14 +1,14 @@
 {
-  "name": "JulieMwol",
+  "name": "PANTHER",
   "version": "7.3.6",
   "description": "Julie Mwol is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
-  "main": "./Julie-Mwol/bot.js",
+  "main": "./PANTHER/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/farhan-dqz/Julie-Mwol.git"
+    "url": "git+https://github.com/MJMODS/PANTHER.git"
   },
   "keywords": [
     "whatsapp",
